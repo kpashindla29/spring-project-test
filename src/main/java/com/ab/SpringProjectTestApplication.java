@@ -10,6 +10,8 @@ public class SpringProjectTestApplication {
 		SpringApplication.run(SpringProjectTestApplication.class, args);
 		
 		System.out.println("Welcome to Spring Boot Updates!!!");
+		
+		
 	}
 
 }
